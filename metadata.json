@@ -1,0 +1,5 @@
+{
+  "name": "SciVector AI",
+  "description": "基于 Gemini AI 的强大工具，可将科学位图（图表、图解、分子式）转换为可编辑、可缩放的 SVG 矢量图形。",
+  "requestFramePermissions": []
+}
